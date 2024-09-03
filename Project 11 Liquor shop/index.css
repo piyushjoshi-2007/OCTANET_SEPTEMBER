@@ -1,0 +1,212 @@
+.form_div{
+    margin-left: 25px;
+    padding-left: 35px;
+}
+.sea_form:hover{
+cursor: pointer;
+transition: 0.2s;
+border: solid black 2px;
+}
+.sea_form{
+    border: solid black 1px;
+   
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    
+    padding-right: 55px;
+   
+}
+.search_but{
+   padding-left: 35px;
+  margin: 12px;
+    border: 0px;
+    outline: 0px;
+}
+.nav-it{
+    margin-left: 35px;
+    padding-left: 45px;
+}
+.nav-link{
+    font-size: 17px;
+}
+.nav-link:hover{
+    color: rgb(4, 77, 77);
+    font-weight: 600;
+}
+.nav-item{
+    word-spacing: 5px;
+}
+.cart:hover{
+    color: black;
+}
+.main{
+    margin: 12px;
+    background-color: rgb(191, 138, 241);
+}
+.main_text{
+    margin-top: 55px;
+    margin-left: 35px;
+  font-family: 600;
+    font-size: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main_text2{
+    
+    margin-left: 35px;
+      font-size: 19px;
+      font-family:  Arial, Helvetica, sans-serif;
+      opacity: 0.8;
+color: white;
+}
+.but{
+    word-spacing: 3px;
+    letter-spacing: 4px;
+ 
+    margin-left: 15px;
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+ background-color: rgb(163, 10, 58);
+ border: solid  rgb(163, 10, 58) 2px ;
+}
+.loc_but{
+    
+    font-size: 18px;
+    padding:15px ;
+  margin-right: 55px;
+  padding-right: 88px;
+  padding-left: 35px;
+font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   outline: 0px;
+    border: solid rgb(163, 10, 58) 2px;
+
+}
+.myform{
+  border-radius: 5px;
+    font-size: 25px;
+    margin-top: 55px;
+    margin-left: 55px;
+    background-color: rgb(163, 10, 58);
+}
+.sec3{
+    margin-left: 65px;
+    padding: 55px;
+}
+
+.img_text{
+    margin-left: 52px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 21px;
+}
+.img_text:hover{
+    cursor: pointer;
+    color: rgb(124, 16, 225);
+
+}
+.sec4{
+ 
+    background-color: rgb(237, 233, 227);
+}
+.sec_head{
+    font-size: 38px;
+    font-family: monospace;
+    word-spacing: 13px;
+    
+}
+.sec3_main{
+   
+    
+    padding-left: 95px;
+}
+.imge{
+    background-color: white;
+    padding: 35px;
+    border-radius: 50%;
+    
+}
+.sec4_he{
+    font-size: 26px;
+    padding-left:2px;
+    font-family: cursive;
+
+}
+.sec4_tex{
+   font-family: cursive;
+   opacity: 0.7;
+    font-size: 15px;
+}
+.but2{
+    
+    color: white;
+    border-radius: 5px;
+    font-size: 21px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   padding-left: 45px;
+   padding-right: 45px;
+   margin-right: 42px;
+  
+    background-color:rgb(143, 5, 47);
+    border: 0px;
+}
+.but2:hover{
+    transition: 0.5s;
+color:rgb(143, 5, 47) ;
+background-color: white;
+border: solid rgb(143, 5, 47) 2px;
+}
+.sec5{
+    margin: 25px;
+    padding-top: 45px;
+}
+.sec5_head{
+    margin-top: 55px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+.sec5_text{
+    text-align: left;
+    font-size: 22px;
+    opacity: 0.8;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+
+}
+.imgq{
+   margin: 18px;
+}
+.imgq:hover{
+    cursor: pointer;
+}
+.sec6{
+    margin: 25px;
+}
+.sec6_main{
+    margin-left:95px;
+    padding-top: 85px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 34px;
+}
+.sec6_text{
+    font-size: 18px;
+    /* font-family: cursive; */
+    opacity: 0.7;
+    padding-left: 95px;
+}
+.sec7_main{
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.img_sec7{
+    margin-left: 55px;
+    padding-left: 55px;
+}
+.foot{
+    margin: 15px;
+    padding-top: 45px;
+    background-color: gainsboro;
+}
+.foot:hover{
+    cursor: pointer;
+}
